@@ -28,6 +28,14 @@ const Work = () => {
         tags: ["password", "Development"],
         projectLink: "https://pasop.netlify.app/",
       },
+
+      {
+        imgSrc:
+          "https://vercel.com/api/toolbar/link/mernlotteryop.vercel.app?via=project-screenshot&p=1&page=/",
+        title: "Lottery Game ",
+        tags: ["MERN", "Development", "React",'MongoDB'],
+        projectLink: "https://mernlotteryop.vercel.app/",
+      },
     ];
   return (
     <section className="section" id="work">

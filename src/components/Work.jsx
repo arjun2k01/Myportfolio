@@ -39,7 +39,7 @@ const Work = () => {
 
       {
         imgSrc: "https://app.netlify.com/sites/budgetbudd/",
-        title: "Lottery Game ",
+        title: "BudgetBuddy ",
         tags: ["BudgetBuddy", "Development", "React", "DarkMode"],
         projectLink: "https://budgetbudd.netlify.app/",
       },

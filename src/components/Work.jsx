@@ -33,8 +33,15 @@ const Work = () => {
         imgSrc:
           "https://vercel.com/api/toolbar/link/mernlotteryop.vercel.app?via=project-screenshot&p=1&page=/",
         title: "Lottery Game ",
-        tags: ["MERN", "Development", "React",'MongoDB'],
+        tags: ["MERN", "Development", "React", "MongoDB"],
         projectLink: "https://mernlotteryop.vercel.app/",
+      },
+
+      {
+        imgSrc: "https://app.netlify.com/sites/budgetbudd/",
+        title: "Lottery Game ",
+        tags: ["BudgetBuddy", "Development", "React", "DarkMode"],
+        projectLink: "https://budgetbudd.netlify.app/",
       },
     ];
   return (

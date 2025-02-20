@@ -1,4 +1,4 @@
-import { ButtonPrimary } from "./ButtonComponents";
+import { ButtonPrimary } from "./Button";
 
 const ResumeDownload = () => {
   return (

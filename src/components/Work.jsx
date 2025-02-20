@@ -9,12 +9,7 @@ const Work = () => {
         tags: ["API", "Design", "Development"],
         projectLink: "https://codepadop.netlify.app/",
       },
-      {
-        imgSrc: "/images/project-2.jpg",
-        title: "BudgetBudd",
-        tags: ["Javascript", "Vite"],
-        projectLink: "https://budgetbudd.netlify.app/",
-      },
+      
       {
         imgSrc: "/images/project-3.jpg",
         title: "ClockOP",
@@ -32,9 +27,9 @@ const Work = () => {
       {
         imgSrc:
           "https://vercel.com/api/toolbar/link/mernlotteryop.vercel.app?via=project-screenshot&p=1&page=/",
-        title: "Lottery Game ",
-        tags: ["MERN", "Development", "React", "MongoDB"],
-        projectLink: "https://mernlotteryop.vercel.app/",
+        title: "Ledger app ",
+        tags: ["Tailwindcss", "Development", "React"],
+        projectLink: "https://ledgeropp.vercel.app/",
       },
 
       {
